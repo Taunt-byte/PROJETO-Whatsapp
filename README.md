@@ -1,6 +1,11 @@
 # PROJETO-Whatsapp
  Clone do whatsapp em next.js
 
+## Terminal
+
+Yarn
+
+yarn add styled-components 
 
 ## Referencia
 
